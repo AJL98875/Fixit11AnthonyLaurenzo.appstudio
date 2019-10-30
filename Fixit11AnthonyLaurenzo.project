@@ -18,8 +18,48 @@
           "!type": "External", 
           "file": [
             "forms", 
-            "Form1", 
-            "Form1.json"
+            "loginCU", 
+            "loginCU.json"
+          ]
+        }, 
+        {
+          "!type": "External", 
+          "file": [
+            "forms", 
+            "favFoods", 
+            "favFoods.json"
+          ]
+        }, 
+        {
+          "!type": "External", 
+          "file": [
+            "forms", 
+            "dessertVoting", 
+            "dessertVoting.json"
+          ]
+        }, 
+        {
+          "!type": "External", 
+          "file": [
+            "forms", 
+            "describeYou", 
+            "describeYou.json"
+          ]
+        }, 
+        {
+          "!type": "External", 
+          "file": [
+            "forms", 
+            "favExercises", 
+            "favExercises.json"
+          ]
+        }, 
+        {
+          "!type": "External", 
+          "file": [
+            "forms", 
+            "mobileNav", 
+            "mobileNav.json"
           ]
         }
       ], 
@@ -35,7 +75,7 @@
       "eslintRules": null, 
       "expanded_pmp": null, 
       "extraheaders": null, 
-      "firstform": "Form1", 
+      "firstform": "loginCU", 
       "fontFamily": "system", 
       "homescreenTitle": "", 
       "icon": "nsb/images/192.png", 
